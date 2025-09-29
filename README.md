@@ -12,6 +12,7 @@ Para executar o projeto, basta usar o Docker Compose:
 
 ```bash
 docker compose up --build
+```
 
 ## 💡 Observações
 
