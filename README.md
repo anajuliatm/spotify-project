@@ -18,4 +18,4 @@ docker compose up --build
 
 Este projeto foi configurado usando Docker pela primeira vez.
 
-Segui os tutoriais disponibilizados e utilizei o ChatGPT para aprender e implementar a integração dos containers.
+Segui os tutoriais disponibilizados ao instalar o Docker Desktop e também sua documentação, principalmente por ser um projeto que envolve  dois conteiners (docs.docker.com/compose/).
